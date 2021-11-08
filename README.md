@@ -1,7 +1,7 @@
 <h1 align='center'> Hola, soy Ángel 🧑‍💻 </h1>
 
 <p align='center'>
-  Vivo en la Ciudad de México y trabajo en  <b>Vinco Orbis</b> 
+  Vivo en la Ciudad de México.</b> 
 </p>
 
 
